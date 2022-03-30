@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $HOME
+source ./2-bring_me_home
