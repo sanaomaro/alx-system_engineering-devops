@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PATT|tree -L 1|tail -1 
